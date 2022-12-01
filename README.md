@@ -1,4 +1,4 @@
-<h1 align="center">Simple Bulletin Board -Coding Skill Test</h1>
+<h1 align="center">Simple Bulletin Board -Coding Exam</h1>
 
 <p align="justify">A functional CRUD web app built during the coding exam Part-I.</p>
 •   Author: <a href="https://abby2727.github.io/my-portfolio/"> Abdul Pangandaman </a> <br>
